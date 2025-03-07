@@ -1,0 +1,14 @@
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\bin\Debug\net9.0\heranca.exe
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\bin\Debug\net9.0\heranca.deps.json
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\bin\Debug\net9.0\heranca.runtimeconfig.json
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\bin\Debug\net9.0\heranca.dll
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\bin\Debug\net9.0\heranca.pdb
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.AssemblyInfoInputs.cache
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.AssemblyInfo.cs
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.csproj.CoreCompileInputs.cache
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.dll
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\refint\heranca.dll
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.pdb
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\heranca.genruntimeconfig.cache
+C:\Users\andre\estudo\C#\exercicios\Herança\heranca\obj\Debug\net9.0\ref\heranca.dll
